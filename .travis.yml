@@ -21,3 +21,6 @@ env:
     - LC_ALL=en_US.UTF-8
     - JEKYLL_ENV=production
 
+branches:
+  only:
+    - gh-pages
